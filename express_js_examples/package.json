@@ -1,0 +1,18 @@
+{
+  "name": "express_js_examples",
+  "version": "1.0.0",
+  "description": "this the demo for express.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "Deepak Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
